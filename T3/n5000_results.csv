@@ -1,0 +1,19 @@
+n,time[ms]
+5000,2160,Ashing Abierto Entrada Long
+5000,3459,Ashing Abierto Entrada String
+5000,1869,Ashing Cerrado Entrada String
+5000,32748,Ashing Cerrado Entrada Long
+5000,1336,Arbol Entrada Long
+5000,2139,Arbol Entrada String
+5000,17,Buesqueda en Arbol Entrada Long
+5000,43,Buesqueda en Arbol Entrada String
+5000,7332,Buesqueda ht abierto Entrada Long
+5000,8824,Buesqueda ht abierto Entrada String
+5000,2187,Buesqueda ht cerrado Entrada String
+5000,7992,Buesqueda ht cerrado Entrada Long
+5000,73,Buesqueda en Arbol Entrada Long no listado
+5000,55,Buesqueda en Arbol Entrada String no listado
+5000,5716,Buesqueda ht abierto Entrada Long no listado
+5000,8061,Buesqueda ht abierto Entrada String no listado
+5000,5189,Buesqueda ht cerrado Entrada String no listado
+5000,8011,Buesqueda ht cerrado Entrada Long no listado
